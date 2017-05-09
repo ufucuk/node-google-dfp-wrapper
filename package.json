@@ -21,13 +21,13 @@
   },
   "homepage": "https://github.com/spanishdict/node-google-dfp-wrapper",
   "dependencies": {
-    "bluebird": "3.0.5",
-    "googleapis": "2.1.7",
+    "bluebird": "3.3.5",
+    "googleapis": "19.0.0",
     "level": "1.3.0",
-    "lodash": "3.10.1",
+    "lodash": "^4.9.0",
     "minimist": "1.2.0",
     "moment": "2.10.6",
-    "node-google-dfp": "0.2.1"
+    "node-google-dfp": "0.2.2"
   },
   "devDependencies": {
     "replay": "git://github.com/spanishdict/node-replay#f012552fe1b373bc74d59750307f0a2d17c91aa9",
